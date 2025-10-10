@@ -91,7 +91,7 @@ curl -X GET https://raw.githubusercontent.com/hasanhabibmottakin/AynaOTT/refs/he
 </h1>
 
 # 🚬 Credits
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=FF2C10&background=31FF9400&width=400&lines=Made+By+BlueCodeXX)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=FF2C10&background=31FF9400&width=400&lines=Made+By+BlueCodeXX)](https://t.me/BlueCodeXXX)
 
 # 💙 Contributing
 * Provide a premium account of AynaOTT to run the script smoothly ☺️
@@ -113,8 +113,8 @@ curl -X GET https://raw.githubusercontent.com/hasanhabibmottakin/AynaOTT/refs/he
 
 - [![Gmail](https://img.shields.io/badge/Gmail-BlueCodeXXX-green?style=for-the-badge&logo=gmail)](mailto:hasanhabibmottakin@gmail.com)
 
-- [![Facebook](https://img.shields.io/badge/Facebook-Jeshan_Akand-blue?style=for-the-badge&logo=facebook)](https://t.me/BlueCodeXXX)
+- [![Facebook](https://img.shields.io/badge/Facebook-BlueCodeXXX-blue?style=for-the-badge&logo=facebook)](https://t.me/BlueCodeXXX)
 
-- [![Messenger](https://img.shields.io/badge/Messenger-Jeshan_Akand-orange?style=for-the-badge&logo=messenger)](https://t.me/BlueCodeXXX)
+- [![Messenger](https://img.shields.io/badge/Messenger-BlueCodeXXX-orange?style=for-the-badge&logo=messenger)](https://t.me/BlueCodeXXX)
 
 - [![Telegram](https://img.shields.io/badge/Telegram-BlueCodeXXX-indigo?style=for-the-badge&logo=telegram)](https://t.me/BlueCodeXXX)
