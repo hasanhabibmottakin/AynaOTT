@@ -87,7 +87,7 @@ curl -X GET https://raw.githubusercontent.com/hasanhabibmottakin/AynaOTT/refs/he
 <h1 align="center">
  <a href="https://raw.githubusercontent.com/hasanhabibmottakin/AynaOTT/refs/heads/main/playlist.m3u"><img src="https://github.com/hasanhabibmottakin/AynaOTT/blob/main/images/list.png"></a>
 <h1 align="center">
- <a href="https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/AynaOTT_Live.m3u"><img src="https://github.com/hasanhabibmottakin/AynaOTT/blob/main/images/playback.png"></a>
+ <a href="https://raw.githubusercontent.com/hasanhabibmottakin/AynaOTT/refs/heads/main/playlist.m3u"><img src="https://github.com/hasanhabibmottakin/AynaOTT/blob/main/images/playback.png"></a>
 </h1>
 
 # 🚬 Credits
@@ -109,12 +109,12 @@ curl -X GET https://raw.githubusercontent.com/hasanhabibmottakin/AynaOTT/refs/he
 
 # 📬 Find Me on 
 
-- [![Github](https://img.shields.io/badge/Github-Byte_Capsule-purple?style=for-the-badge&logo=github)](https://github.com/hasanhabibmottakin)
+- [![Github](https://img.shields.io/badge/Github-BlueCodeXXX-purple?style=for-the-badge&logo=github)](https://github.com/hasanhabibmottakin)
 
-- [![Gmail](https://img.shields.io/badge/Gmail-Byte_Capsule-green?style=for-the-badge&logo=gmail)](mailto:hasanhabibmottakin@gmail.com)
+- [![Gmail](https://img.shields.io/badge/Gmail-BlueCodeXXX-green?style=for-the-badge&logo=gmail)](mailto:hasanhabibmottakin@gmail.com)
 
 - [![Facebook](https://img.shields.io/badge/Facebook-Jeshan_Akand-blue?style=for-the-badge&logo=facebook)](https://t.me/BlueCodeXXX)
 
 - [![Messenger](https://img.shields.io/badge/Messenger-Jeshan_Akand-orange?style=for-the-badge&logo=messenger)](https://t.me/BlueCodeXXX)
 
-- [![Telegram](https://img.shields.io/badge/Telegram-Byte_Capsule-indigo?style=for-the-badge&logo=telegram)](https://t.me/BlueCodeXXX)
+- [![Telegram](https://img.shields.io/badge/Telegram-BlueCodeXXX-indigo?style=for-the-badge&logo=telegram)](https://t.me/BlueCodeXXX)
