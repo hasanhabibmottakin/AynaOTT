@@ -91,7 +91,7 @@ curl -X GET https://raw.githubusercontent.com/hasanhabibmottakin/AynaOTT/refs/he
 </h1>
 
 # 🚬 Credits
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=FF2C10&background=31FF9400&width=400&lines=Made+By+Byte+Capsule)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=FF2C10&background=31FF9400&width=400&lines=Made+By+BlueCodeXX)](https://git.io/typing-svg)
 
 # 💙 Contributing
 * Provide a premium account of AynaOTT to run the script smoothly ☺️
