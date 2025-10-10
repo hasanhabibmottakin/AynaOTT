@@ -85,16 +85,10 @@ curl -X GET https://raw.githubusercontent.com/hasanhabibmottakin/AynaOTT/refs/he
 
 
 <h1 align="center">
- <a href="https://raw.githubusercontent.com/hasanhabibmottakin/AynaOTT/refs/heads/main/playlist.m3u"><img src="https://github.com/byte-capsule/AynaOTT-Hls-Fetcher/blob/main/images/1.jpg"></a>
-</h1>
+ <a href="https://raw.githubusercontent.com/hasanhabibmottakin/AynaOTT/refs/heads/main/playlist.m3u"><img src="https://github.com/hasanhabibmottakin/AynaOTT/blob/main/images/list.png"></a>
 <h1 align="center">
- <a href="https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/AynaOTT_Live.m3u"><img src="https://github.com/byte-capsule/AynaOTT-Hls-Fetcher/blob/main/images/2.jpg"></a>
+ <a href="https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/AynaOTT_Live.m3u"><img src="https://github.com/hasanhabibmottakin/AynaOTT/blob/main/images/playback.png"></a>
 </h1>
-<h1 align="center">
- <a href="https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/AynaOTT_Live.m3u"><img src="https://github.com/byte-capsule/AynaOTT-Hls-Fetcher/blob/main/images/3.jpg"></a>
-</h1>
-
-
 
 # 🚬 Credits
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=FF2C10&background=31FF9400&width=400&lines=Made+By+Byte+Capsule)](https://git.io/typing-svg)
