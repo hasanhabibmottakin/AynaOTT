@@ -2,7 +2,7 @@ name: AynaOTT Auto Update Channels URLs
 
 on:
   schedule:
-    - cron: "*/40 * * * *"   # Runs every 40 minutes
+    - cron: "*/1200 * * * *"   # Runs every 40 minutes
   workflow_dispatch:
 
 permissions:
