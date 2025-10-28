@@ -26,8 +26,7 @@
   </a>
   </a>
   <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://raw.githubusercontent.com/hasanhabibmottakin/AynaOTT/refs/heads/main/images/made-in-bd.svg"></a>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/hasanhabibmottakin/AynaOTT&count_bg=%2379C83D&title_bg=%23555555&icon=mattermost.svg&icon_color=%23E7E7E7&title=Visitors+&edge_flat=false"/></a>
-</p>
+
 
 <h1 align="center">
  <a href="www.aynaott.com"><img src="https://aynaott.com/assets/images/landing/6.png"></a>
