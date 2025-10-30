@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="3545345634545435454545" tvg-logo="https://web.telegram.org/68b98a88-223e-48b8-929d-0185d10d668d" group-title="Playlist Owner",CoderBoy
+https://tvsen7.aynascope.net/tsportshd/index.m3u8?e=1761818012&u=5448cf91-5746-4e78-a357-d45dca5c1ab9&token=de98cc6a2f04df18afd1536f9a1a57cf
 #EXTINF:-1 tvg-id="20714fd4-dc3c-46d6-924f-3038d61f027c" tvg-logo="https://s3.aynaott.com/storage/28931315743beff50fc2c1312b1f8261" group-title="Live Channels",Channel I
 https://tvsen6.aynascope.net/channeli/index.m3u8?e=1761815827&u=5448cf91-5746-4e78-a357-d45dca5c1ab9&token=556260b3ba1f309c16be4aa6c223a501
 #EXTINF:-1 tvg-id="1a2c8ec3-61d5-4355-80e2-fc3c9b178a0d" tvg-logo="https://s3.aynaott.com/storage/73c39182782a201338070c2f4429e449" group-title="Live Channels",NTV
