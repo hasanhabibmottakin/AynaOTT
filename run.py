@@ -21,21 +21,26 @@ def fetch_html(url: str) -> str:
     return ""  
 
 def extract_stream_url(html: str) -> str:
-    """Extract m3u8 URL from HTML using regex."""
+    """Extract m3u8 URL and unescape it."""
     match = re.search(r'const\s+streamUrl\s*=\s*"([^"]+)"', html)
-    return match.group(1) if match else ""
+    if not match:
+        return ""
+    url = match.group(1)
+    
+    url = url.encode("utf-8").decode("unicode_escape")
+    url = url.replace("\\/", "/")
+    return url.strip()
 
 def main():
     if not BASE_URL:
         print("Missing AYNA_BASE_URL environment variable.")
         return
 
-    
     try:
         with open(API_FILE, "r", encoding="utf-8") as f:
             data = json.load(f)
     except Exception:
-        print(" Failed to read api.json")
+        print("Failed to read api.json")
         return
 
     channels = data.get("channels", [])
@@ -48,12 +53,12 @@ def main():
         logo = ch.get("logo", "")
         cat = ch.get("category", "Others")
 
-        print(f" Fetching: {title}")
+        print(f"Fetching: {title}")
 
         html = fetch_html(f"{BASE_URL}{cid}")
         stream_url = extract_stream_url(html)
 
-        if stream_url:
+        if stream_url.startswith("http"):
             ch["url"] = stream_url
             result["channels"].append(ch)
             m3u_lines.append(
@@ -61,9 +66,8 @@ def main():
                 f'tvg-logo="{logo}" group-title="{cat}",{title}\n{stream_url}'
             )
         else:
-            print(f"Skipped: {title} (no valid URL)")
+            print(f"Skipped: {title} (invalid or missing URL)")
 
-    
     with open(PLAYLIST_FILE, "w", encoding="utf-8") as f:
         f.write("\n".join(m3u_lines))
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
