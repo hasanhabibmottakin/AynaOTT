@@ -2,7 +2,7 @@ name: Auto Update Ayna Streams
 
 on:
   schedule:
-    - cron: "*/20 * * * *"
+    - cron: "*/20 * * * *"   
   workflow_dispatch:
 
 permissions:
@@ -27,12 +27,12 @@ jobs:
       - name: Run update script
         env:
           AYNA_BASE_URL: ${{ secrets.AYNA_BASE_URL }}
-        run: python update.py
+        run: python run.py
 
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add playlist.m3u rest_api.json
-          git commit -m "Auto update Ayna playlist (Python)"
+          git commit -m "Auto update Ayna playlist (Python)" || echo "No changes"
           git push
